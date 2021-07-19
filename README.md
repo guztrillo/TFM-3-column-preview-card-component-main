@@ -47,8 +47,7 @@ And when you hover it:
 
 ```css
 .button:hover{
-  background-color: #000,
-  mix-blend-mode: screen;
+  background-color: #000
 }
 ```
 
