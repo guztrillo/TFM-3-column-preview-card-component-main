@@ -18,7 +18,7 @@ Users should be able to
 
 ### Links
 
-- Live Site URL: [Stats preview card component](https://guztrillo.github.io/TFM-stats-preview-card-component/)
+- Live Site URL: [3-column preview card component solution](https://guztrillo.github.io/TFM-3-column-preview-card-component-main/)
 
 ## My process
 
