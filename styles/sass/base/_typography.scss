@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca&display=swap');
+
+.card-item-title {
+     color: $light-gray;
+     font-family: 'Big Shoulders Display', cursive;
+     text-transform: uppercase;
+}
+
+.card-item-paragraph {
+     color: $trans-white;
+     font-family: 'Lexend Deca', sans-serif;
+     font-size: 15px;
+}
+
+.button {
+     font-family: 'Lexend Deca', sans-serif;
+     font-size: 15px;
+}
+
+.card-item-title, .card-item-paragraph {
+     text-align: left;
+}

@@ -1,0 +1,20 @@
+
+
+.button {
+     background-color: $light-gray;
+     border: 2px solid $light-gray;
+     border-radius: 250px;
+     color: #000;
+     cursor: pointer;
+     height: auto;
+     mix-blend-mode: screen;
+     margin-bottom: 10px;
+     padding: 12px 30px;
+     transition: all 0.2s ease-in-out;
+     width: auto;
+     &:hover{
+          background-color: black;
+          color: $light-gray
+     }
+}
+
